@@ -1,0 +1,30 @@
+div{
+    
+}
+#player
+{
+    margin:0 0 500px 500px;
+    text-align: center;
+    width:300px;
+    
+}
+#reset
+{
+    width:90px;
+    height:30px;
+    float:right;
+    background-color: rgb(47, 177, 14);
+}
+button
+{
+    height:240px;
+    width:290px;float:left;
+    margin:15px 15px 50px 100px;
+}
+body{
+    height: 200px;
+  background-color: #cccccc;
+  background-image: linear-gradient(red, yellow);
+
+}
+.effect:hover {background-color:gainsboro;}
